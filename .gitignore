@@ -1,0 +1,5 @@
+/target/
+/Data/
+.classpath
+.project
+.settings/
